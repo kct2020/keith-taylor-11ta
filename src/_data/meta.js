@@ -1,8 +1,8 @@
 module.exports = {
-	siteURL: process.env.URL || 'https://prospra.com',
-	siteName: "PROSPRA Activity Arranger",
+	siteURL: process.env.URL || 'https://Keith-Taylor.Pages.Dev',
+	siteName: "Keith Taylor's Internet Content",
 	siteDescription:
-		'7 Step Problem Solver & Task Organizer using PROSPRA Activity Arranger.',
+		'History, progress and plans for Keith Taylor Internet content.',
 	siteImage: '/assets/images/site/default.png',
 	lang: 'en',
 	locale: 'en_us',
