@@ -1,0 +1,43 @@
+---
+layout: page
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - authors
+    - pages
+    - post
+permalink: /tags/{{ tag }}/
+eleventyComputed:
+  title: Entries Tagged "{{ tag }}”
+---
+
+<h2 id="topic" class="mt-6">Facts About {{ tag }} - PROSPRA Activity Arranger</h2>
+<p>This is a collection of articles about {{ tag }} - PROSPRA Activity Arranger. Always remember that these links and lists are curated. So you can find additional information using the search engine linked near the top and bottom of every page.</p>
+
+<h2 id="list">{{ tag }} - PROSPRA Activity Arranger Article List</h2>
+
+{# 
+  We set this to 'postslist' so we can use the same postslist components as the /blog 
+#}
+  {% set postslist = collections[tag] %}
+
+{# 
+  Either inherit the 'postListStyle' or use another layout
+  Please see instructions in /src/_data/structure.js 
+#}
+{% set tagStyle = structure.tagListStyle or structure.postListStyle %}
+
+{# 
+  Allows a user to easily change the Tag List Style.
+  Please see instructions in /src/_data/structure.js
+#}
+{% set postlist = ['components/', tagStyle, '.njk'] %}
+{% include postlist | join %}
+
+<div class="border-t border-gray-300">
+<h4 class="{{ colors.tagPillCustom.text or colors.tagPillDefault.text }}">All Tags:</h4>
+{% set tags = collections.tagList %}
+{% include "components/tagpills.njk" %}
+</div>

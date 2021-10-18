@@ -1,0 +1,59 @@
+[
+	{
+		"slug": "keith-taylor",
+		"name": "Keith Taylor",
+		"image": "/assets/images/authors/keith-taylor.webp",
+		"bio": "After many years working in finance and small business systems, I've settled on creating information websites. Because I love researching and learning about a wide range of subjects that interest me. Then I learn more as I adapt my learning projects to teach others. Currently, I'm at the start of transmigrating WordPress websites to Jamstack.",
+		"companyWebsites": [
+			{
+				"label": "GoutPal",
+				"url": "https://www.goutpal.com",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "KeCaTa",
+				"url": "https://kecata.com"
+			},
+			{
+				"label": "Shrewdies (not for dummies)",
+				"url": "https://shrewdies.com/"
+			},
+			{
+				"label": "Foodary",
+				"url": "https://foodary.com/"
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": "https://github.com/kct2020"
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": "https://www.linkedin.com/in/keith-taylor-kecata-websites"
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": "https://twitter.com/KeithTaylor"
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	}
+]
