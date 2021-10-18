@@ -1,12 +1,23 @@
-# PROSPRA.com Activities Arranger Website Source
+# Keith Taylor Authoring Website Source
 
-![.github/prospra-screenshot.webp](.github/prospra-screenshot.webp)
+[.github/`add new screenshot`]
 
-Arrange new activities or re-arrange existing routines more efficiently.
+All about Keith's:
+
+- Sites owned
+- Sites contributed to
+- Social networks
+- Public Profile Pages
+- Archived content
+- Any other Internet content
+- Writing tools I use or have used
+- Authoring tools I use or have used
+
+I include tags. Especially `Contact` so you can easily see details of different ways to contact me. Including a summary page of the main ways to make contact.
 
 This project is built mostly edited with [Gitpod](https://www.gitpod.io/) and deployed to [Cloudflare Pages](https://pages.cloudflare.com).
 
-## How to add new project
+## How to collaborate on content
 
 - Just start a [New Issue](./issues/new/choose)
 
@@ -21,4 +32,4 @@ I could not have got this far without the wonderful gift of [Site In A Box (SIAB
 
 ## ToDo
 
-- Move technical development to a duplicated template repo and refocus this on improving content for PROSPRA.com
+- Move technical development to a duplicated template repo and refocus this on improving content for Keith Taylor

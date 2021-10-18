@@ -1,0 +1,41 @@
+---
+title: Keith Taylor's Internet Content Blog
+date: 2021-10-18
+description: Keith Taylor's Internet Content Blog links all Keith's writings. Giving you better context and helping you find more.
+layout: page
+eleventyNavigation:
+  key: main
+  title: Blog #  as it will appear in the nav
+  order: 3    # order to display in the nav
+seo:
+  title: From the blog...
+  description: 
+pagination:
+  data: collections.post 
+  size: 12
+  reverse: true
+  alias: posts
+---
+
+<h2 class="mt-6">Keith Taylor's Internet Content Blog</h2>
+
+<p>
+These are all the blog posts about Keith Taylor's Internet Content.
+</p>
+
+<hr class="mt-8">
+
+{% set postslist = posts | reverse %}
+
+{# 
+  Allows a user to easily change the Tag List Style.
+  Please see instructions in /src/_data/structure.js >>> ===== Post List Style Options =====
+#}
+{% set postlist = ['components/', structure.postListStyle, '.njk'] %}
+{% include postlist | join %}
+
+{# ===== Paginate based on "size" frontmatter value above =====  #}
+{# Don't even include the pagination component if there are fewer posts than needed to paginate  #}
+{% if collections.post.length > pagination.size %}
+  {% include "components/pagination.njk" %}
+{% endif %}

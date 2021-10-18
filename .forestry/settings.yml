@@ -9,11 +9,6 @@ sections:
   label: Posts
   create: documents
   match: "**/*"
-- type: directory
-  path: src/about-prospra
-  label: About
-  create: all
-  match: "**/*"
 upload_dir: src/assets/images/2021
 public_path: "/assets/images/2021"
 front_matter_path: ''
