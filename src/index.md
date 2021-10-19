@@ -2,7 +2,7 @@
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
 title: Keith Taylor's Internet Content
 layout: post
-date: 2021-09-27
+date: 2021-10-20
 excerpt: Keith Taylor's Internet Content Home Page.
 author: keith-taylor
 eleventyNavigation: # Required if want to display in Main Nav Bar
@@ -20,15 +20,15 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: 2021/too-many-activities-to-organize.webp # relative to /assets/images/
+    image: 2021/old-keith-taylor-blog.webp # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video:  # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
-  headingText: Did you bite off more tasks<br /> than you can chew?
+  headingText: GoutPal, Foodary, or Shrewdies Fan?
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: Sink your keith into better activities arranging!
+  subheadingText: Learn more about Keith Taylor and all his websites.
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Search Now... # no button generated if left blank
   buttonURL: /search-keith-taylor # full url required. Example: https://thisdomain.com/somepage/

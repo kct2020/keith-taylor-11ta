@@ -9,7 +9,7 @@ seo:
   image: 2021/keith-taylor-badge-media.webp
 images: # relative to /src/assets/images/
   feature:
-  thumb: 2021/keith-taylor-badge-377-media.webp
+  thumb: 2021/keith-taylor-badge-media-377.webp
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: # optional. Default = h-48 md:h-1/3
 hero: graphic # options: carousel, graphic, video, split (text & image)
