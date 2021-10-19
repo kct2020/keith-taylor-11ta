@@ -1,9 +1,9 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
-title: PROSPRA Activities Arranger
+title: Keith Taylor's Internet Content
 layout: post
 date: 2021-09-27
-excerpt: The PROSPRA website Home Page.
+excerpt: Keith Taylor's Internet Content Home Page.
 author: keith-taylor
 eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
@@ -31,24 +31,26 @@ heroSettings:
   subheadingText: Sink your keith into better activities arranging!
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Search Now... # no button generated if left blank
-  buttonURL: /about-prospra/search-prospra-com # full url required. Example: https://thisdomain.com/somepage/
+  buttonURL: /search-keith-taylor # full url required. Example: https://thisdomain.com/somepage/
   buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
   buttonBgColor: # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
   buttonBgHover: # leave blank to inherit from /src/_data/colors.buttonCustom.bgHover or buttonDefault.bgHover
   buttonBorder: # leave blank to inherit from /src/_data/colors.buttonCustom.border or buttonDefault.border
 ---
-## PROSPRA Activities Arranger
+## Keith Taylor's Internet Content
 
-Welcome to PROSPRA Activities Arranger
+Welcome to Keith Taylor's Internet Content
 
 Currently, this site is under construction. Because I'm transmigrating from WordPress to Jamstack.
 
-But there's plenty of content to help you arrange your activities. So I recommend you try one or all of the following...
+But you can look at one or all of the following...
 
 <dl id="content">
-<dt id="search"><p><a href="https://cse.google.com/cse?cx=2bf1e05c3c5da97fa">Search PROSPRA</a></p></dt><dd>I think now is a good time for you to bookmark that search PROSPRA link. Then you can keep asking questions and researching new PROSPRA topics.</dd>
-<dt id="old"><p><a href="/prospra-wp-2020">Old PROSPRA Blog</a></p></dt><dd>The articles that have been helping you organize your activities are still here. So please keep reading them and tell me which ones you want me to prioritize for review.</dd>
-<dt id="new"><p><a href="/prospra-blog">New PROSPRA Blog</a></p></dt><dd>Week by week, I will be adding new projects. Also, I'll review the old blog and gradually move the content to new articles. So please keep checking back to encourage my progress.</dd>
+<dt id="search"><p><a href="https://cse.google.com/cse?cx=e7158312c712ab2c3"">Search Keith Taylor's Internet Content</a></p></dt><dd>I think now is a good time for you to bookmark that search link. Then you can keep asking questions and searching for my articles. Note that the engine searches all my sites. Not just this blog.</dd>
+<dt id="new"><p><a href="/keith-taylor-blog">New Keith Taylor Blog</a></p></dt><dd>Week by week, I will be adding new articles about my content. Also, I'll share my experiences with various tools that help writing, publishing, and authoring on the Internet. So please keep checking back to encourage my progress.</dd>
 </dl>
 
-But what if you still have concerns after reading all that? Simply share your questions, experiences, and opinions on the <a href="https://github.com/kct2020/prospra-11ty-11ta/issues">PROSPRA Issues Page</a>.
+But what if you still have concerns after reading all that? Simply share your questions, experiences, and opinions on the <a href="https://github.com/kct2020/keith-taylor-11ta/issues">Keith Taylor Issues Page</a>.
+
+
+<a href="https://web.archive.org/web/20210211055442/https://keith.1drous.me/"><img src="/assets/images/2021/old-keith-taylor-blog.webp" alt="Keith Taylor's Internet Help Stories"  width="610" height="377"><p>Keith Taylor's Internet Help Stories Archive</p></a>
