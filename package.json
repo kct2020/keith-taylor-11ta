@@ -1,16 +1,16 @@
 {
-  "name": "prospra-11ty-11ta",
+  "name": "keith-taylor-11ta",
   "version": "1.0.0",
-  "description": "Source for PROSPRA.com",
+  "description": "Source for keith-taylor.pages.dev",
   "author": "Keith Taylor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kct2020/prospra-11ty-11ta/issues"
+    "url": "https://github.com/kct2020/keith-taylor-11ta/issues"
   },
-  "homepage": "https://github.com/kct2020/prospra-11ty-11ta#readme",
+  "homepage": "https://github.com/kct2020/keith-taylor-11ta#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kct2020/prospra-11ty-11ta.git"
+    "url": "https://github.com/kct2020/keith-taylor-11ta.git"
   },
   "keywords": [
     "11ty",

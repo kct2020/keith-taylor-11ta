@@ -9,7 +9,7 @@ seo:
   image: 2021/keith-taylor-badge-media.webp
 images: # relative to /src/assets/images/
   feature:
-  thumb: 2021/keith-taylor-badge-377-media.webp
+  thumb: 2021/keith-taylor-badge-media-377.webp
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: # optional. Default = h-48 md:h-1/3
 hero: graphic # options: carousel, graphic, video, split (text & image)
@@ -41,7 +41,7 @@ I've published this website to help you arrange routine activities and small pro
 
 <h2 id="history">Keith Taylor's Internet Content History</h2>
 
-The best way to see how Keith-Taylor.Pages.Dev has developed is to browse <a href="https://web.archive.org/web/20130616012046/http://prospra.com/">PROSPRA.com in The Wayback Machine</a>.
+The best way to see how my personal blog has developed is to browse <a href="https://web.archive.org/web/20210211055442/https://keith.1drous.me/">Keith Taylor's Internet Content in The Wayback Machine</a>.
 
 <h2 id="status">Keith-Taylor.Pages.Dev Status</h2>
 
@@ -49,16 +49,19 @@ Currently, I am replacing keith.1drous.me on WordPress with the Eleventy Jamstac
 
 <h2 id="intent">Keith-Taylor.Pages.Dev Intentions</h2>
 
-I intend to continue growing PROSPRA by providing many more examples. Then use those examples to clarify PROSPRA principles and guidelines.
+My intentions for this site are:
+- Complete the 'Admin' pages that will form the defaults for all my websites.
+- Post updates about my other website changes as often as I can.
 
 One of my first projects will be a new website that will explain how to transmigrate a WordPress website. But prior to that I will create a template that can be used for new websites based on what I have learned so far about Jamstack sites.
 
 My first priority now is to complete switching from my WordPress server. Then I the will continue transmigration with new and revised content using Jamstack.
 
-<img src="/assets/images/2021/keith-taylor-badge-media.webp" alt="Keith Taylor's Internet Content Badge"  width="610" height="377">
-<h2 id="next">Arranging Your Activities</h2>
+Please note that I don't intend to transfer any articles from my old blog. But if you want an update on something in the archive (linked above), let me know using the 'Issues' link below.
 
-At the time of writing, PROSPRA content is limited to old WordPress blog articles, linked above. But now I've completed the main phase of transmigration, I will focus on bringing you new articles to help you arrange your activities more efficiently. So my best advice is to keep returning each week. Then you will have more information about how this website works. More importantly, I will bring you new practical examples that you can adapt to start your own PROSPRA projects.
+<img src="/assets/images/2021/keith-taylor-badge-media.webp" alt="Keith Taylor's Internet Content Badge"  width="610" height="377">
+
+<h2 id="next">Your Next Steps</h2>
 
 If you are familiar with RSS, this website does have a live feed that you can follow now. But I will explain that more as I complete the 'About Keith-Taylor.Pages.Dev' pages.
 
