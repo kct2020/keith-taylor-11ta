@@ -1,5 +1,5 @@
 ---
-title: Keith-Taylor.Pages.Dev T&C # will be overwritten by SEO.title below
+title: Keith Taylor # will be overwritten by SEO.title below
 date: 2021-10-06
 excerpt: See your responsibilities and expectations about using Keith-Taylor.Pages.Dev.
 author: keith-taylor

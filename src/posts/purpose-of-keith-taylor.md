@@ -1,5 +1,5 @@
 ---
-title: Keith-Taylor.Pages.Dev Purpose # will be overwritten by SEO.title below
+title: Keith Taylor Purpose # will be overwritten by SEO.title below
 date: 2021-10-07
 excerpt: Why Keith-Taylor.Pages.Dev exists, and why you might need Keith Taylor to help you find the most helpful Internet content.
 author: keith-taylor
