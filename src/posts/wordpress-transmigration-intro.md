@@ -4,22 +4,21 @@ author: keith-taylor
 heroSettings:
   height:
     mobile: h-1/2
-    desktop: ''
+    desktop: 
   bg:
     opacityMobile: opacity-50
     opacityDesktop: opacity-75
-    color: ''
-    image: "/assets/images/2021/wordpress-transmigration-experts.webp"
-    imagePosition: ''
-    video: ''
+    color: 
+    image: 2021/wordpress-transmigration-experts.webp
+    imagePosition: 
   imagePosition: center
   imageOpacity: opacity-50
   imageOpacityFilter: black
   headingText: Who is the leading WordPress Transmigration Expert?
-  headingTextColor: ''
+  headingTextColor: 
   subheadingText: See how and why Keith is leading the pack.
-  subheadingTextColor: ''
-  image: "/assets/images/2021/wordpress-transmigration-experts.webp"
+  subheadingTextColor: 
+  image: 2021/wordpress-transmigration-experts.webp
 title: WordPress Transmigration Intro
 excerpt: More than migration! See the latest WordPress Transmigration Expert.
 seo:
@@ -27,16 +26,17 @@ seo:
   description: Keith Taylor just established himself as a leading WordPress Transmigration
     Expert. Now I'd like to collaborate with other experts. Let's make it easier for
     people to transmigrate from WP!
-  image: "/assets/images/2021/wordpress-transmigration-experts.webp"
+  image: 2021/wordpress-transmigration-experts.webp
 images:
-  feature: ''
-  thumb: "/assets/images/2021/wordpress-transmigration-experts-377.webp"
-  align: ''
-  height: ''
-hero: ''
+  feature: 
+  thumb: 2021/wordpress-transmigration-experts-377.webp
+  align: 
+  height: 
+hero: 'graphic'
 tags:
 - PROSPRA
 - WordPress
+- Netlify
 
 ---
 <h2 id="intro">Introducing WordPress Transmigration</h2>
@@ -47,7 +47,7 @@ I've planned to move some websites from WordPress to static sites for a long tim
 
 I've been considering switching some of my websites from WordPress for quite a while. Mainly because it's becoming too cumbersome for my needs. But that does not mean that I have discarded WordPress entirely.
 
-I explained that in my Introduction to After WordPress on Netlify. Now you can see that it has taken 2 years to move forward to what I now call WordPress Transmigration.
+I explained that in my <a href="https://after-wordpress.netlify.app/2019/10/28/hello-world/">Introduction to After WordPress on Netlify</a>. Now you can see that it has taken 2 years to move forward to what I now call WordPress Transmigration.
 
 Along the way, it has been difficult to find information that is truly focussed on practical ways to change deploymewnt platforms from WordPress to static sites. Probably because there is no established name for the procedure.
 
