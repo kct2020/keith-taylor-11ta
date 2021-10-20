@@ -7,34 +7,34 @@ seo:
   title: Keith Taylor's Internet Content Blog
   description: Keith Taylor's Internet Content blog.
   image: 2021/keith-taylor-badge-media.webp
-images: # relative to /src/assets/images/
-  feature:
+images:
+  feature: 
   thumb: 2021/keith-taylor-badge-media-377.webp
-  align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
-  height: # optional. Default = h-48 md:h-1/3
-hero: graphic # options: carousel, graphic, video, split (text & image)
+  align: 
+  height: 
+hero: graphic
 heroSettings:
   height:
-    mobile: h-1/2 # options = h-1/1 (default = full screen), h-1/2, h-1/3, h-3/4, h-9/10, h-48 (12rem, 192px), h-56 (14rem, 224px), h-64 (16rem, 256px)
-    desktop: # leave blank to inherit "mobile" height (default = full screen)
+    mobile: h-1/2
+    desktop: 
   bg:
-    color: # default bg-black
-    image: 2021/keith-taylor-badge-media.webp # relative to /assets/images/
-    imagePosition: # options = bg-center (default), bg-left, bg-right
-    opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
-    opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
+    color: 
+    image: 2021/keith-taylor-badge-media.webp
+    imagePosition: 
+    opacityMobile: opacity-50
+    opacityDesktop: opacity-75
   headingText: What is Keith Taylor writing now?
-  headingTextColor: # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
+  headingTextColor: 
   subheadingText: Sink your keith into Keith Taylor's Internet Content.
-  subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
-  image: 2021/keith-taylor-badge-media.webp # image URL
-  imagePosition: left # options = left, center, right
-  imageOpacity: opacity-50 # options = opacity-25, opacity-50, opacity-75, opacity-100 (default)
-  imageOpacityFilter: black # options = black or white (default) -> really depends on your background image
+  subheadingTextColor: 
+  image: 2021/keith-taylor-badge-media.webp
+  imagePosition: left
+  imageOpacity: opacity-50
+  imageOpacityFilter: black
 tags:
-  - using
----
+- using
 
+---
 Welcome to Keith Taylor's Internet Content.
 
 I've published this website to help you arrange routine activities and small project tasks more efficiently.
@@ -50,8 +50,9 @@ Currently, I am replacing keith.1drous.me on WordPress with the Eleventy Jamstac
 <h2 id="intent">Keith-Taylor.Pages.Dev Intentions</h2>
 
 My intentions for this site are:
-- Complete the 'Admin' pages that will form the defaults for all my websites.
-- Post updates about my other website changes as often as I can.
+
+* Complete the 'Admin' pages that will form the defaults for all my websites.
+* Post updates about my other website changes as often as I can.
 
 One of my first projects will be a new website that will explain how to transmigrate a WordPress website. But prior to that I will create a template that can be used for new websites based on what I have learned so far about Jamstack sites.
 
@@ -69,4 +70,4 @@ Finally, I hope you will comment on, and start your own, <a href="https://github
 
 <hr />
 
-Leave Welcome to Keith Taylor's Internet Content to read more <a href="/keith-taylor-blog">Keith Taylor's Blog Articles</a>.
+Leave Welcome to Keith Taylor's Internet Content to read more <a href="/keith-taylor-blog">Keith Taylor's Blog Articles</a>. Or click a tag button to read related information.

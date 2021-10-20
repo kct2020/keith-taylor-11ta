@@ -119,4 +119,4 @@ fields:
   name: tags
   label: tags
 pages:
-- src/posts/improve-wordpress-transmigration-transfer-routine.md
+- src/posts/wordpress-migration-intro.html

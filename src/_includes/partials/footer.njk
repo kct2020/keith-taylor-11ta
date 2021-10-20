@@ -1,5 +1,5 @@
 <footer>
-  <div class="{{ colors.footerCustom.barBg or colors.footerDefault.barBg }}">
+  <div class="{{ colors.footerCustom.barBg or colors.footerDefault.barBg }}" style="background-color:#905937">
     <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
       <div class="flex justify-center md:order-2 {{ colors.socialIconsCustom or colors.socialIconsDefault }}">
         {% if structure.g_showFooterSocialIcons %}
@@ -16,7 +16,7 @@
         {% endif %}
       </div>
       <div class="mt-8 md:mt-0 md:order-1">
-        <p class="text-center text-base leading-6 {{ colors.footerCustom.text or colors.footerDefault.text }}">
+        <p class="text-center text-base leading-6 {{ colors.footerCustom.text or colors.footerDefault.text }}" style="color:#E9E990">
           &copy; {{ build.timestamp | dateToFormat('yyyy') }}, {{ "Keith Taylor" }} <br />
           [<a href="/">Home</a>] | [<a href="/about-keith-taylor/">About</a>] | [<a href="/purpose-of-keith-taylor">Purpose</a>] | [<a href="/contact-keith-taylor">Contact</a>] | [<a href="/keith-taylor-privacy-policy">Privacy</a>] | [<a href="/keith-taylor-terms-and-conditions">T&Cs</a>] | [<a href="/keith-taylor-news-and-notifications">Notifications</a>] | [<a href="/help-keith-taylor">Help</a>] | [<a href="https://cse.google.com/cse?cx=e7158312c712ab2c3">Search</a>]
         </p>
