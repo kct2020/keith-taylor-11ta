@@ -118,3 +118,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/posts/wordpress-migration-intro.html
