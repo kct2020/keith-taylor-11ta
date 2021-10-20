@@ -9,6 +9,14 @@ sections:
   label: Posts
   create: documents
   match: "**/*"
+- type: document
+  path: src/index.md
+  label: Home
+  match: "**/*"
+- type: document
+  path: src/404.md
+  label: '404'
+  match: "**/*"
 upload_dir: src/assets/images/2021
 public_path: "/assets/images/2021"
 front_matter_path: ''
