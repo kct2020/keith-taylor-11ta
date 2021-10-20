@@ -1,5 +1,4 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
-const colors = require('tailwindcss/colors')
 
 module.exports = {
 	purge: [
@@ -16,10 +15,6 @@ module.exports = {
 		removeDeprecatedGapUtilities: true,
 	},
 	theme: {
-		colors: {
-			kctback: '#905937',
-			kctfore: '#E9E990'
-		},
 		extend: {
 			opacity: (theme) => ({
 				5: '.05',
