@@ -61,7 +61,7 @@ As such, that infers a need for good planning, preparation, and performance. Fol
 
 During development of my WordPress Transmigration procedures I adopted the term gradually. However, I never checked if it was a term in common use. Probably because I realized that my way of evolving website content is different. But I'll cover that elsewhere.
 
-This morning, I decided to search for specific "WordPress Transmigration". So I was'nt surprised to find only 8 results. But  I was delighted to find my PROSPRA project at the top of the results.
+This morning, I decided to search for specific "WordPress Transmigration". So I was not surprised to find only 8 results. But  I was delighted to find my PROSPRA project at the top of the results.
 
 I've reformatted the top 7 results to fit the screenshot below. Unfortunately, I couldn't find an easy way to fit the 8th result. However, it is a rogue result from some spammy list that includes an accidental collision of 'WordPress' with 'Transmigration'. So best ignored!
 

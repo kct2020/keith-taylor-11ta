@@ -15,6 +15,10 @@ module.exports = {
 		removeDeprecatedGapUtilities: true,
 	},
 	theme: {
+		colors: {
+			kctback: '#905937',
+			kctfore: '#E9E990'
+		},
 		extend: {
 			opacity: (theme) => ({
 				5: '.05',

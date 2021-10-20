@@ -234,8 +234,8 @@ module.exports = {
 		text: 'text-teal-500',
 	},
 	footerCustom: {
-		barBg: '#905937',
-		text: '#e9e990',
+		barBg: 'kctback',
+		text: 'kctfore',
 	},
 
 	/**
