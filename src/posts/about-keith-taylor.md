@@ -50,7 +50,7 @@ Later, I will add a summary of my bio here. But for now, you should read all my 
 <h2 id="details">Details About Keith Taylor</h2>
 
 <dl>
-<dt id="intent">Purpose </dt><dd><a href="../purpose-of-keith-taylor/">Keith Taylor's Purpose Statement</a> will explain how the purpose of this website links with the purpose of his life. For now, you should read all the `Purpose` posts.</dd>
+<dt id="intent">Purpose </dt><dd><a href="../keith-taylor-purpose/">Keith Taylor's Purpose Statement</a> will explain how the purpose of this website links with the purpose of his life. For now, you should read all the `Purpose` posts.</dd>
 <dt id="contact">Contact </a></dt><dd>How to <a href="../contact-keith-taylor/">Contact Keith Taylor</a>.</dd>
 <dt id="privacy">Privacy </dt><dd>For details of information I keep about you see <a href="../keith-taylor-privacy/">Keith Taylor Privacy Policy</a>.</dd>
 <dt id="terms">T&Cs </dt><dd><a href="../keith-taylor-terms-and-conditions/">Terms and conditions</a> for doing business with Keith Taylor.</dd>
