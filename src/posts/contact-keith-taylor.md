@@ -35,7 +35,7 @@ heroSettings:
   imageOpacityFilter: black # options = black or white (default) -> really depends on your background image
 tags:
   - using
-  - Contact
+  - contact
 ---
 <h2 id="intro">Contact Keith Taylor at</h2>
 I encourage collaboration with developing Keith Taylor's Internet Content. So I'm trying to develop a better social network to achieve that. However, my priority is currently to establish routines for supporting you via GitHub Issues.

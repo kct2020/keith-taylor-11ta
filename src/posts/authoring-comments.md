@@ -32,11 +32,13 @@ images:
   height: 
 hero: 'graphic'
 tags:
-  - Contact
+  - contact
 
 ---
 
 Comments can make or break a webpage. So get it wrong, and risk offensive spam and boring repetition. Or get it right and gain better understanding for everyone.
+
+There is an important point that website authors and publishers must grasp. Comments form a collaboration between readers and writers. So that collaboration must be managed.
 
 <h2 id="intro">Introducing Authoring Comments</h2>
 
@@ -89,4 +91,4 @@ Whenever you have questions, experiences, or opinions, it's time to send me your
 
 <hr />
 
-Leave Authoring Comments to read more <a href="_KCT_TEMPLATE_BlogURL_">_KCT_TEMPLATE_siteName_ Blog Articles</a>. Or click a tag button to read related information.
+Leave Authoring Comments to read more <a href="keith-taylor-blog">Keith Taylor's Blog Articles</a>. Or click a tag button to read related information.

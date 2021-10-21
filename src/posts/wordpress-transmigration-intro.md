@@ -34,8 +34,8 @@ images:
   height: 
 hero: 'graphic'
 tags:
-- PROSPRA
-- WordPress
+- prospra
+- wordpress
 
 ---
 <h2 id="intro">Introducing WordPress Transmigration</h2>

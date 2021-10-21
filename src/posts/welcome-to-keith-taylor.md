@@ -33,8 +33,8 @@ heroSettings:
   imageOpacityFilter: black
 tags:
 - using
-- WordPress
-- PROSPRA
+- wordpress
+- prospra
 
 ---
 Welcome to Keith Taylor's Internet Content.
