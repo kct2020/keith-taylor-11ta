@@ -50,13 +50,13 @@ Later, I will add a summary of my bio here. But for now, you should read all my 
 <h2 id="details">Details About Keith Taylor</h2>
 
 <dl>
-<dt id="intent">Purpose </dt><dd><a href="../purpose-of-keith-taylor">Keith Taylor's Purpose Statement</a> will explain how the purpose of this website links with the purpose of his life. For now, you should read all the `Purpose` posts.</dd>
-<dt id="contact">Contact </a></dt><dd>How to <a href="../contact-keith-taylor">Contact Keith Taylor</a>.</dd>
-<dt id="privacy">Privacy </dt><dd>For details of information I keep about you see <a href="../keith-taylor-privacy-policy">Keith Taylor Privacy Policy</a>.</dd>
-<dt id="terms">T&Cs </dt><dd><a href="../keith-taylor-terms-and-conditions">Terms and conditions</a> for doing business with Keith Taylor.</dd>
-<dt id="updates">Notifications </dt><dd>How to get notification about new and revised articles from <a href="../keith-taylor-news-and-notifications">Keith Taylor update services</a>.</dd>
-<dt id="help">Help </dt><dd>You can get general help using the Search feature below. Customized help is a 2-way street. Because I have to learn about you before I can customize information to help you arrange your activities. So the <a href="../help-keith-taylor">Keith Taylor help page</a> will describe how you can get advanced help. Also, they deal with collaboration and how you help promote or improve Keith Taylor's Internet Content.</dd>
-<dt id="search">Search </dt><dd>Tips to help you <a href="../search-keith-taylor">find quick answers about Keith Taylor's Internet Content</a>. For now, bookmark and use <a href="https://cse.google.com/cse?cx=e7158312c712ab2c3">Google Keith Taylor's Internet Content</a>.</dd>
+<dt id="intent">Purpose </dt><dd><a href="../purpose-of-keith-taylor/">Keith Taylor's Purpose Statement</a> will explain how the purpose of this website links with the purpose of his life. For now, you should read all the `Purpose` posts.</dd>
+<dt id="contact">Contact </a></dt><dd>How to <a href="../contact-keith-taylor/">Contact Keith Taylor</a>.</dd>
+<dt id="privacy">Privacy </dt><dd>For details of information I keep about you see <a href="../keith-taylor-privacy/">Keith Taylor Privacy Policy</a>.</dd>
+<dt id="terms">T&Cs </dt><dd><a href="../keith-taylor-terms-and-conditions/">Terms and conditions</a> for doing business with Keith Taylor.</dd>
+<dt id="updates">Notifications </dt><dd>How to get notification about new and revised articles from <a href="../keith-taylor-news/">Keith Taylor update services</a>.</dd>
+<dt id="help">Help </dt><dd>You can get general help using the Search feature below. Customized help is a 2-way street. Because I have to learn about you before I can customize information to help you arrange your activities. So the <a href="../help-keith-taylor/">Keith Taylor help page</a> will describe how you can get advanced help. Also, they deal with collaboration and how you help promote or improve Keith Taylor's Internet Content.</dd>
+<dt id="search">Search </dt><dd>Tips to help you <a href="../search-keith-taylor/">find quick answers about Keith Taylor's Internet Content</a>. For now, bookmark and use <a href="https://cse.google.com/cse?cx=e7158312c712ab2c3">Google Keith Taylor's Internet Content</a>.</dd>
 </dl>
 <img src="/assets/images/2021/about-keith-taylor.webp" alt="About Keith Taylor" width="610" height="377">
 
