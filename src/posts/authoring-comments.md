@@ -85,9 +85,9 @@ Comments are part of a collaboration system. Where the benefits are better under
 
 You've learned how I handle comments. More importantly, you have the foundation for your next step in the collaboration process - send me your feedback!
 
-Remember, you can send feedback about any of my Internet Content. Maybe you have nothing to contribute to this page? Then search and follow links to collect more related information. 
+Remember, you can send feedback about any of my Internet Content. Maybe you have nothing to contribute to this page? Then <a href="https://cse.google.com/cse?cx=e7158312c712ab2c3">search</a> and follow <a href="/tags/contact/">links</a> to collect more related information. 
 
-Whenever you have questions, experiences, or opinions, it's time to send me your feedback. So join all relevant <a href="_github_issues_">Keith Taylor discussions</a>. But if there are no discussions relevant to you, <a href="_github_new_issue_">start a new discussion about your concerns</a>.
+Whenever you have questions, experiences, or opinions, it's time to send me your feedback. So join all relevant <a href="https://github.com/kct2020/keith-taylor-11ta/issues">Keith Taylor discussions</a>. But if there are no discussions relevant to you, <a href="https://github.com/kct2020/keith-taylor-11ta/issues/new/choose">start a new discussion about your concerns</a>.
 
 <hr />
 
