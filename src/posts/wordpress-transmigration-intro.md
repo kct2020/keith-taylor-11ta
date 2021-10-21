@@ -34,9 +34,8 @@ images:
   height: 
 hero: 'graphic'
 tags:
-- PROSPRA
-- WordPress
-- Netlify
+- prospra
+- wordpress
 
 ---
 <h2 id="intro">Introducing WordPress Transmigration</h2>
@@ -92,3 +91,13 @@ Think about how you are affected by WordPress Transmigration. Maybe you want to 
 <hr />
 
 Leave WordPress Transmigration to read more <a href="/keith-taylor-blog">Keith Taylor's Blog Articles</a>. Or click a tag button to read related information.
+
+<h2 id="comments">WordPress Transmigration Comments</h2>
+
+Keith Taylor visitor responses and associated research include:
+
+<h3 id="topic">Netlify Examples</h3>
+
+Netlify introduced me to the technique of hosting Jamstack websites. Then my eyes opened to the possibilities of fast, free hosting in the Cloud. AKA Serverless Hosting. But shortly after I discovered it, Cloudflare announced a similar service: Cloudflare Pages. So I created a few starter sites in Netlify while waiting to see if the Cloudflare offer would work for me.
+
+As time allows, I'll revisit my Netlify experiments to judge if any are worth continuing. Because diversity is good for me. Also, I see no reason why WordPress sites cannot be transmigrated to Netlify for any site owners who prefer it.

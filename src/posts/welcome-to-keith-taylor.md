@@ -33,6 +33,8 @@ heroSettings:
   imageOpacityFilter: black
 tags:
 - using
+- wordpress
+- prospra
 
 ---
 Welcome to Keith Taylor's Internet Content.
@@ -54,7 +56,7 @@ My intentions for this site are:
 * Complete the 'Admin' pages that will form the defaults for all my websites.
 * Post updates about my other website changes as often as I can.
 
-One of my first projects will be a new website that will explain how to transmigrate a WordPress website. But prior to that I will create a template that can be used for new websites based on what I have learned so far about Jamstack sites.
+One of my first projects is to <a href="https://prospra.com/improve-wordpress-transmigration-transfer-routine/">improve the efficiency of my WordPress Transmigration</a> procedure. So I'll summarize important developments of that PROSPRA project as I publish more.
 
 My first priority now is to complete switching from my WordPress server. Then I the will continue transmigration with new and revised content using Jamstack.
 
