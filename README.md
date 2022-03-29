@@ -33,3 +33,4 @@ I could not have got this far without the wonderful gift of [Site In A Box (SIAB
 ## ToDo
 
 - Move technical development to a duplicated template repo and refocus this on improving content for Keith Taylor
+- resolve dependency issues. Note 220329, started trying to address some errors using Gitpod Terminal. Specifically `npx browserslist@latest` --update-db and `npm audit fix --force`

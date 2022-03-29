@@ -32,7 +32,6 @@
     "build:postcss": "NODE_ENV=production postcss src/assets/css/tailwind.css -o dist/assets/tailwind.css",
     "build": "run-s clean build:* --print-label"
   },
-  "dependencies": {},
   "devDependencies": {
     "@11ty/eleventy": "0.11.1",
     "@11ty/eleventy-navigation": "0.3.2",
