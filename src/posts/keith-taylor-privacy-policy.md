@@ -5,7 +5,7 @@ excerpt: See how Keith Taylor meets all your privacy standards.
 author: keith-taylor
 layout: post
 seo:
-  title: Keith-Taylor.Pages.Dev Privacy Policy # overrides 'title' above on both Page and META
+  title: Keith Taylor Privacy Policy # overrides 'title' above on both Page and META
   description:  What are your website privacy issues? See how Keith Taylor meets all your privacy standards.
   image: 2021/keith-taylor-privacy.webp
 images: # relative to /src/assets/images/
@@ -36,7 +36,7 @@ heroSettings:
 tags:
   - using
 ---
-<h2 id="status">Keith-Taylor.Pages.Dev Privacy Policy Status</h2>
+<h2 id="status">Keith Taylor Privacy Policy Status</h2>
 
 This is a first draft of a privacy policy that can be adapted for all my websites. The purpose of this page is to explain common website privacy issues. Then to explain how each website satisfies privacy concerns. Therefore, I will: 
 1. Publish this in draft form.
@@ -96,7 +96,7 @@ First, check if anyone else shares your concerns at <a href="https://github.com/
 
 <hr />
 
-Leave Keith-Taylor.Pages.Dev Privacy Policy Page to read more <a href="/about-keith-taylor">about Keith Taylor</a>.
+Leave Keith Taylor Privacy Policy Page to read more <a href="/about-keith-taylor">about Keith Taylor</a>.
 
 <h4 id="refs">Keith Taylor Privacy Policy References</h4>
 <ol>
