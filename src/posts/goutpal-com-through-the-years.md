@@ -93,12 +93,11 @@ Ideally, I can collaborate with other WordPress Transmigration experts. Then we 
 
 You've learned about my website platforms for GoutPal. So are you interested most in continuing WordPress Transmigration? Or do you prefer to collaborate on content? Either way, I need your input to create more help services. 
 
-Continue WordPress Transmigration at
-
-Collaborate on GoutPal content at
+- Continue WordPress Transmigration at <a href="https://github.com/kct2020/keith-taylor-11ta/issues">discussion(s) about WordPress Transmigration</a>.
+- Collaborate on GoutPal content at <a href="https://github.com/kct2020/goutpal-com-skeleventy/issues">GoutPal Issues</a>
 
 Think about how you are affected by WordPress Transmigration. Maybe you want to search here and follow links to collect more related information. Then join the <a href="https://github.com/kct2020/keith-taylor-11ta/issues">discussion(s) about WordPress Transmigration</a>. But if there are no discussions relevant to you, <a href="https://github.com/kct2020/keith-taylor-11ta/issues/new/choose">start a new discussion about WordPress Transmigration</a>.
 
 <hr />
 
-Leave {{ title }} to browse <a href="/keith-taylor-blog">Keith Taylor's Blog Articles</a>. Or click a tag button to read related information.
+Leave GoutPal Through The Years to browse <a href="/keith-taylor-blog">Keith Taylor's Blog Articles</a>. Or click a tag button to read related information.
