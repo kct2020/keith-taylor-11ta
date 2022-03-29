@@ -1,5 +1,5 @@
 module.exports = {
-	siteURL: process.env.URL || 'https://Keith-Taylor.Pages.Dev',
+	siteURL: process.env.URL || 'https://shrewdies.net',
 	siteName: "Keith Taylor's Internet Content",
 	siteDescription:
 		'History, progress and plans for Keith Taylor Internet content.',

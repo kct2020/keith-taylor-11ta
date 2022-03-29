@@ -1,7 +1,7 @@
 ---
 title: Search Keith Taylor # will be overwritten by SEO.title below
 date: 2021-10-08
-excerpt: Tips to help you find Keith-Taylor.Pages.Dev related Internet content.
+excerpt: Tips to help you find Shrewdies.net related Internet content.
 author: keith-taylor
 layout: post
 eleventyNavigation:
@@ -9,7 +9,7 @@ eleventyNavigation:
   title: Search # as it will appear in the nav
   order: 9 # order to display in the nav
 seo:
-  title: Search Keith-Taylor.Pages.Dev # overrides 'title' above on both Page and META
+  title: Search Keith Taylor Content # overrides 'title' above on both Page and META
   description:  The best way to find Keith Taylor's Internet Content. Tips to help you learn how to search for the most meaningful information.
   image: 2021/search-keith-taylor.webp
 images: # relative to /src/assets/images/
@@ -49,11 +49,11 @@ On this page, I will add tips to help you find the right solutions to common act
 
 <img src="/assets/images/2021/search-keith-taylor.webp" alt="Keith Taylor's Search Tips" width="610" height="377">
 
-<h2 id="next">Your Keith-Taylor.Pages.Dev Searches</h2>
-You have learned that Keith Taylor's search engine indexes all his Internet content. Not just the articles on Keith-Taylor.Pages.Dev. But is it complete? Are you aware of any of my content that doesn't appear in this engine's results?
+<h2 id="next">Your Keith Taylor Searches</h2>
+You have learned that Keith Taylor's search engine indexes all his Internet content. Not just the articles on Shrewdies.net. But is it complete? Are you aware of any of my content that doesn't appear in this engine's results?
 
 For missing results pages, please comment on <a href="https://github.com/kct2020/keith-taylor-11ta/issues">Keith Taylor's Internet Content Issues</a>. Or start a new issue if your concerns are not already being discussed (spot the big green `New Issue` button on that issues page). 
 
 <hr />
 
-Leave Search Keith-Taylor.Pages.Dev Page to read more <a href="/about-keith-taylor">about Keith-Taylor.Pages.Dev</a>.
+Leave Search Keith Taylor Page to read more <a href="/about-keith-taylor">about Keith Taylor</a>.

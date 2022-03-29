@@ -45,11 +45,11 @@ I've published this website to help you arrange routine activities and small pro
 
 The best way to see how my personal blog has developed is to browse <a href="https://web.archive.org/web/20210211055442/https://keith.1drous.me/">Keith Taylor's Internet Content in The Wayback Machine</a>.
 
-<h2 id="status">Keith-Taylor.Pages.Dev Status</h2>
+<h2 id="status">Shrewdies.net Status</h2>
 
 Currently, I am replacing keith.1drous.me on WordPress with the Eleventy Jamstack platform. I refer to this process as `WordPress transmigration`. Because I want to differentiate it from `WordPress migration`. As that normally refers to moving a WordPress installation from one server to another.
 
-<h2 id="intent">Keith-Taylor.Pages.Dev Intentions</h2>
+<h2 id="intent">Shrewdies.net Intentions</h2>
 
 My intentions for this site are:
 
@@ -66,7 +66,7 @@ Please note that I don't intend to transfer any articles from my old blog. But i
 
 <h2 id="next">Your Next Steps</h2>
 
-If you are familiar with RSS, this website does have a live feed that you can follow now. But I will explain that more as I complete the 'About Keith-Taylor.Pages.Dev' pages.
+If you are familiar with RSS, this website does have a live feed that you can follow now. But I will explain that more as I complete the 'About Keith Taylor' pages.
 
 Finally, I hope you will comment on, and start your own, <a href="https://github.com/kct2020/keith-taylor-11ta/issues">Keith Taylor's Internet Content Issues</a>. Because that's the best way to encourage me to put your concerns at the top of my ToDo List.
 
