@@ -91,4 +91,4 @@ Whenever you have questions, experiences, or opinions, it's time to send me your
 
 <hr />
 
-Leave Authoring Comments to read more <a href="keith-taylor-blog">Keith Taylor's Blog Articles</a>. Or click a tag button to read related information.
+Leave Authoring Comments to read more <a href="/keith-taylor-blog">Keith Taylor's Blog Articles</a>. Or click a tag button to read related information.

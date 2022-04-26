@@ -4,6 +4,7 @@ module.exports = {
 	siteDescription:
 		'History, progress and plans for Keith Taylor Internet content.',
 	siteImage: '/assets/images/site/default.png',
+	blog: "Keith Taylor's Internet Content Blog",
 	lang: 'en',
 	locale: 'en_us',
 	authorName: 'Keith Taylor',
