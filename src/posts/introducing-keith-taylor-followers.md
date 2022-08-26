@@ -19,7 +19,7 @@ heroSettings:
   subheadingText: Sink your keith into tiered marketing lists.
   subheadingTextColor: 
   image: 2022/who-are-keiths-followers.webp
-image_alt: Who are Keith Taylor's Followers?
+image_alt: Are you a Keith Taylor Follower?
 title: Introducing Keith Taylor's Followers
 topic: webpage marketing
 excerpt: How can I follow Keith's updates. See where the marketing lists start.
@@ -43,16 +43,16 @@ All you really need to know is that the path to Shrewd Learning starts at [Who a
 
 <a href="https://shrewdies.com/">Shrewd Learning</a> is my collection of tools and processes that help you organize your online learning projects.
 
-Many of us think we left learning behind when we quit school or college. But in reality, we keep learning every day. Though most of us do it informally. So it can be quite a shock when we need to start learning about gout. Or about healthy eating patterns. Or even relearning how to learn.
+Many of us think we left learning behind when we quit school or college. But in reality, we keep learning every day. Though most of us do it informally. So, the need to organize research can be quite a shock when we start learning a complex subject. Or even relearning how to learn.
 
-Now that shock is reduced considerably if we have modern tools to help organize research, review goals, and plan actions based on our new knowledge. So I've collected my tools to form Shrewd Learning. Packaged with support to help you personalize those tools.
+Now that shock is reduced considerably if we have modern tools to help organize research, review goals, and plan actions based on our new knowledge. Therefore, I've collected my tools to form Shrewd Learning. Packaged with support to help you personalize those tools.
 
-Furthermore, I'm using 2 subjects to ensure that my resources provide practical solutions to common problems. Namely, gout, where Shrewd Learning is rebranded as GoutPal Links. Also, food, where my working title for my next project is Foodary Nexus.
+Furthermore, I'm using 2 subjects to ensure that my resources provide practical solutions to common problems. Firstly, gout, where I've rebranded Shrewd Learning as GoutPal Links. Secondly, food, where my working title for my next project is Foodary Nexus.
 
-In this way, you can do one or all of the following:
-- Learn about the tools and processes in Shrewd Learning.
-- Learn how to improve your gout or your eating patterns.
-- Learn how to adapt Shrewd Learning resources to any subject that interests you.
+In this way, you can learn one or all of the following:
+- About the tools and processes in Shrewd Learning.
+- How to improve your gout or your eating patterns.
+- How to adapt Shrewd Learning resources to any subject that interests you.
 
 <h2 id="tiers">Learner Tiers</h2>
 
@@ -77,19 +77,17 @@ I will describe subscription and membership tiers in the next article in this se
   <figcaption>{{ image_alt }}</figcaption>
 </figure>
 
-<h2 id="next">Your {{ title }}</h2>
+<h2 id="next">Your Next Steps</h2>
 
-You have learned/Now, you understand that…
-
-If you still have concerns about {{ topic }}, you should discuss those concerns with appropriate advisers. However, if you want help to prepare for that discussion, please see the <a href="#feedback">feedback section</a> below.
+You have learned how to start following my announcements for Keith's Learners. Next, please set a reminder to check my <a href="https://keithctaylor.gumroad.com/posts">Learning Service Announcements</a> next month. Or <a href="https://keithctaylor.gumroad.com/follow">follow me now</a> to get automatic updates by email. 
 
 <hr />
 
-Leave {{ title }} to browse the <a href="{{ site.blogurl }}">{{ meta.blog }}</a>.
+Leave {{ title }} to browse <a href="{{ site.blogurl }}">{{ meta.blog }}</a>.
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Please <a href="{{ site.social_links.github }}issues/new/choose">share your thoughts about this page</a>. To discuss other concerns, use the feedback link for the most relevant page.
+Please <a href="{{ site.social_links.github }}issues/14">share your thoughts about this page</a>. To discuss other concerns, use the feedback link for the most relevant page.
 
 If you are asking a question, it's best to:<ol>
 <li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
