@@ -22,7 +22,7 @@ heroSettings:
 image_alt: Keith's Learners Resource Map
 title: Keith's Learners Resources
 topic: research and learning tools
-excerpt: Where can I find Resources for Keith's Learners?. Try these free research and learning tools.
+excerpt: Where can I find Resources for Keith's Learners? Try these free research and learning tools.
 seo:
   title: Keith's Learners Resources
   description: 123456789012345678901234567890123456789012345678 .123456789012345678901234567890123456789012345678 .123456789012345678901234567890123456789012345678 .

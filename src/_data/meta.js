@@ -7,6 +7,11 @@ module.exports = {
 	blog: "Keith Taylor's Internet Content Blog",
 	lang: 'en',
 	locale: 'en_us',
+	site: {
+		searchurl: 'https://cse.google.com/cse?cx=e7158312c712ab2c3',
+		searchname: 'Keith Taylor Search Engine',
+		blogurl: '/keith-taylor-blog/'
+	},
 	authorName: 'Keith Taylor',
 	authorURL: 'keith-taylor',
 	authorEmail: 'shrewdies@gmail.com',
