@@ -81,16 +81,36 @@ I will describe subscription and membership tiers in the next article in this se
 
 You have learned how to start following my announcements for Keith's Learners. Next, please set a reminder to check my <a href="https://keithctaylor.gumroad.com/posts">Learning Service Announcements</a> next month. Or <a href="https://keithctaylor.gumroad.com/follow">follow me now</a> to get automatic updates by email. 
 
+<a style="display: block; height: 100px; width: 500px; background: #373790; color: #ffffff; text-align: center; font-weight: bold; font-size: 150%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://keithctaylor.gumroad.com/follow">Get Free Email Updates</a>
+
 <hr />
 
 Leave {{ title }} to browse <a href="{{ site.blogurl }}">{{ meta.blog }}</a>.
+<hr />
 
-<h4 id="feedback">{{ title }} Feedback</h4>
+<h4 id="feedback">Keith Taylor Follower's Feedback</h4>
 
-Please <a href="{{ site.social_links.github }}issues/14">share your thoughts about this page</a>. To discuss other concerns, use the feedback link for the most relevant page.
+Please add your comments below. Or <a href="{{ site.social_links.github }}discussions">start your own discussion</a>. 
 
-If you are asking a question, it's best to:<ol>
+If you are asking a question, it's best to:
+<ol>
 <li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
 <li>Choose the most relevant result.</li>
 <li>Refer to that result as you ask your question.</li>
 </ol>
+<script src="https://giscus.app/client.js"
+        data-repo="kct2020/keith-taylor-11ta"
+        data-repo-id="R_kgDOGO7Ihg"
+        data-category="🗣 ShrewdChat Blog Feedback"
+        data-category-id="DIC_kwDOGO7Ihs4CRE7i"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light_tritanopia"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
