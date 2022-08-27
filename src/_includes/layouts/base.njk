@@ -15,6 +15,20 @@
     {% set prismOkaidia %}{% include "src/assets/css/prism-okaidia.css" %}{% endset -%}
     <style>
       {{prismOkaidia | cssmin | safe}}
+      .cta-btn {
+    display: block;
+    height: 80px;
+    width: 100%;
+    background: #373790;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 138%;
+    line-height: 80px;
+    font-family: Arial;
+    border-radius: 20px;
+    text-decoration: none;
+}
     </style>
   </head>
   <body class="{{ colors.siteTextCustom or siteTextDefault }}">

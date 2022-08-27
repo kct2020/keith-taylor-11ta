@@ -22,6 +22,9 @@ This project continues with progress notes recorded in Issues. Also, I will gene
 
 Branch commit / Pull Request notes from 11ta-template listed latest first.
 
+## 220827 Tailwind
+I can't figure this. Changing tailwind.css deploys OK in Gitpod. But not in Cloudflare Pages. So I've added style in base.njk until I can work it out or move away from 11ta.
+
 ## 210927b Switch Server (3)
 My confusion regarding the point of dividing content between pages and posts continues. I guess I should research it, Because my lack of a definitive answer is slowing progress on my ideal template development. As far as the mechanics is concerned:
 - `src/_includes/components/nav.njk` only considers pages. So I've changed it to `collections.all`
