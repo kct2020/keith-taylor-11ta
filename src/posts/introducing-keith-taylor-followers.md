@@ -81,7 +81,7 @@ I will describe subscription and membership tiers in the next article in this se
 
 You have learned how to start following my announcements for Keith's Learners. Next, please set a reminder to check my <a href="https://keithctaylor.gumroad.com/posts">Learning Service Announcements</a> next month. Or <a href="https://keithctaylor.gumroad.com/follow">follow me now</a> to get automatic updates by email. 
 
-<a style="display: block; height: 100px; width: 500px; background: #373790; color: #ffffff; text-align: center; font-weight: bold; font-size: 150%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://keithctaylor.gumroad.com/follow">Get Free Email Updates</a>
+<a class="cta-btn" href="https://keithctaylor.gumroad.com/follow">Get Free Email Updates</a>
 
 <hr />
 
