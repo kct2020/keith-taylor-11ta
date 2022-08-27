@@ -92,16 +92,37 @@ That's why I've run several support forums over the years. But I've found that d
 </figure>
 <h2 id="next">Your Learning Resources</h2>
 There are lots of ways that you can start to use Keith's Learners Resources for your own projects. But, as yet, I haven't provided documentation for you to get started. However, if you need help today, please <a href="https://github.com/kct2020/keith-taylor-11ta/issues/14">get started with ShrewdConcerns now</a>. Or see other options in the feedback section below.
+
+<a style="display: block; height: 100px; width: 500px; background: #373790; color: #ffffff; text-align: center; font-weight: bold; font-size: 150%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://github.com/kct2020/keith-taylor-11ta/issues/14">Share ideas about this page</a>
+
 <hr />
 
-Leave {{ title }} to browse <a href="/keith-taylor-blog/">Keith Taylor's Internet Content Blog</a>.
+Leave {{ title }} to browse <a href="{{ site.blogurl }}">{{ meta.blog }}</a>.
+<hr />
 
 <h4 id="feedback">{{ title }} Feedback</h4>
 
-Please <a href="https://github.com/kct2020/keith-taylor-11ta/issues/14">share your thoughts about this page</a>.  Also, you can use that link for general chats about learning resources. Because I won't start a general learning discussion service until I have more readers. However, you can join either or both of my <a href="https://github.com/kct2020/goutpal-com-skeleventy/discussions">Gout Learning Discussions</a> or <a href="https://github.com/kct2020/foodary.com/discussions">Food Learning Discussions</a>.
+Please add your comments below. Or <a href="{{ site.social_links.github }}discussions">start your own discussion</a>. 
 
-If you are asking a question, it's best to:<ol>
-<li>Search for that question in <a href="https://cse.google.com/cse?cx=e7158312c712ab2c3">Keith Taylor's Search Engine</a> first.</li>
+If you are asking a question, it's best to:
+<ol>
+<li>Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.</li>
 <li>Choose the most relevant result.</li>
 <li>Refer to that result as you ask your question.</li>
 </ol>
+<script src="https://giscus.app/client.js"
+        data-repo="kct2020/keith-taylor-11ta"
+        data-repo-id="R_kgDOGO7Ihg"
+        data-category="🗣 ShrewdChat Blog Feedback"
+        data-category-id="DIC_kwDOGO7Ihs4CRE7i"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light_tritanopia"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
