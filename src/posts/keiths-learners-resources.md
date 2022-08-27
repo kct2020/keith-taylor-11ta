@@ -93,7 +93,7 @@ That's why I've run several support forums over the years. But I've found that d
 <h2 id="next">Your Learning Resources</h2>
 There are lots of ways that you can start to use Keith's Learners Resources for your own projects. But, as yet, I haven't provided documentation for you to get started. However, if you need help today, please <a href="https://github.com/kct2020/keith-taylor-11ta/issues/14">get started with ShrewdConcerns now</a>. Or see other options in the feedback section below.
 
-<a style="display: block; height: 100px; width: 500px; background: #373790; color: #ffffff; text-align: center; font-weight: bold; font-size: 150%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://github.com/kct2020/keith-taylor-11ta/issues/14">Share ideas about this page</a>
+<a class="cta-btn" href="https://github.com/kct2020/keith-taylor-11ta/issues/14">Share ideas about this page</a>
 
 <hr />
 
