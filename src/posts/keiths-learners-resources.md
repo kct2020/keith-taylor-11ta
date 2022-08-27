@@ -25,7 +25,7 @@ topic: research and learning tools
 excerpt: Where can I find Resources for Keith's Learners? Try these free research and learning tools.
 seo:
   title: Keith's Learners Resources
-  description: 123456789012345678901234567890123456789012345678 .123456789012345678901234567890123456789012345678 .123456789012345678901234567890123456789012345678 .
+  description: Keith's Learners follow subjects from his websites. Because they provide tools to support online learning. But what resources are available?
   image: 2022/keiths-learners-resources.webp
 images:
   feature: 
