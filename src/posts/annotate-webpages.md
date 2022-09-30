@@ -36,7 +36,7 @@ hero: 'graphic'
 tags:
 ---
 
-<p>I'm blogging about how I'm using Hypothes.is as a starting point for documentation about 📒ShrewdNotes Web Page Annotation. Because I'm learning how to organize efficient workflows with 📒ShrewdNotes. Then I can be certain that my documentation is accurate for when I get more people involved.</p>
+<p>This article tells you how I'm using Hypothes.is as a starting point for documentation about 📒ShrewdNotes Web Page Annotation. Because I'm learning how to organize efficient workflows with 📒ShrewdNotes. Then I can be certain that my documentation is accurate for when I get more people involved.</p>
 <p>So these are practical notes that guide me. In order to become reference material for anonymous learners, followers, subscribers, and members. Also, these notes can become a framework for Hypothes.is-style 📒ShrewdNotes that I can adapt for Sciwheel and other annotation services.</p>
 
 <h2 id="hypothesisgroupsandtags">Hypothes.is Groups and Tags</h2>
@@ -53,10 +53,10 @@ tags:
 <p>Note that Public annotations for my subject tags include notes from all Hypothes.is users. So, tags are a great way to collect notes by everyone who is interested in a topic. Also, you can mix and match User, Group, and Tag searches. As well as using free-format search.</p>
 <p>Additionally, I've started using Hypothes.is Tags to help me organize my workflows. Currently, I use 4, but I may extend this as I incorporate annotation into my daily life. My current 4 tags are:</p>
 <ul>
-<li><a href="https://hypothes.is/users/KeithTaylor?q=tag%3ANew" target="_blank">New</a> - denotes new content that I'm preparing.</li>
-<li><a href="https://hypothes.is/users/KeithTaylor?q=tag%3AChange" target="_blank">Change</a> - denotes changes I plan to make.</li>
-<li><a href="https://hypothes.is/users/KeithTaylor?q=tag%3Aediting" target="_blank">editing</a> - means that I've saved the note that I'm currently working on. Or that I've forgotten to delete my <code>editing</code> tag! I use this to avoid losing text as I'm writing it, as Hypothes.is does not have autosave. Though there are ways round that.</li>
-<li><a href="https://hypothes.is/users/KeithTaylor?q=tag%3ABuildInPublic" target="_blank">BuildInPublic</a> - read more at <a href="https://keithctaylor.gumroad.com/p/do-you-fear-buildinpublic" target="_blank">#BuildInPublic</a>.</li>
+<li><a href="https://hypothes.is/users/KeithTaylor?q=tag%3ANew" target="_blank"><code>New</code></a> – denotes new content that I'm preparing.</li>
+<li><a href="https://hypothes.is/users/KeithTaylor?q=tag%3AChange" target="_blank"><code>Change</code></a> – denotes changes I plan to make.</li>
+<li><a href="https://hypothes.is/users/KeithTaylor?q=tag%3Aediting" target="_blank"><code>editing</code></a> – means that I've saved the note that I'm currently working on. Or that I've forgotten to delete my <code>editing</code> tag! I use this to avoid losing text as I'm writing it, as Hypothes.is does not have autosave. Though there are ways round that.</li>
+<li><a href="https://hypothes.is/users/KeithTaylor?q=tag%3ABuildInPublic" target="_blank"><code>BuildInPublic</code></a> – read more at <a href="https://keithctaylor.gumroad.com/p/do-you-fear-buildinpublic" target="_blank">#BuildInPublic</a>.</li>
 </ul>
 
 <h3 id="shrewdsubjectsgroups">🗃ShrewdSubjects Groups</h3>
