@@ -58,12 +58,14 @@ tags:
 <h3 id="health">Health</h3>
 <p>Besides GoutPal and Foodary, I'm interested in many aspects of health and wellbeing:</p>
 <ul>
-<li><a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-ggborgts">Depression Causes Type 2 Diabetes</a></li>
+<li>7 Sep 2023 <a href="https://peakd.com/hive-193552/@keithtaylor/actifit-keithtaylor-20230907t170940070z">Encouraged By Walken</a></li>
+<li>7 Sep 2023 <a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-ggborgts">Depression Causes Type 2 Diabetes</a></li>
 </ul>
 <h3 id="hiveblockchain">Hive Blockchain</h3>
 <p>I'm definitely in the phase of learning here. Though, I hope to be able to mentor other Web3 converts in the future. But first, I will wait for the new LeoFinance onboarding and adoption campaigns.</p>
 <ul>
-<li><a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-kcga2zqo">1st World Problems</a></li>
+<li>6 Sep 2023 <a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-kcga2zqo">1st World Problems</a></li>
+<li>5 Sep 2023 <a href="https://peakd.com/hive-193552/@keithtaylor/actifit-keithtaylor-20230905t212917701z">Growing Slowly</a></li>
 </ul>
 <figure id="image">
 <img src="/assets/images/{{ seo.image }}" alt="{{ image_alt }}"  width="610" height="377">
