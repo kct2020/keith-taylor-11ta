@@ -50,18 +50,18 @@ tags:
 </ol>
 <p>Also, I'll explain why I refer to "So-called SEO"</p>
 <h2 id="currentweb3content">Current Web3 Content.</h2>
-<p><a href="https://peakd.com/@keithtaylor">Keith Taylor Web3 Blog</a> includes most of my Web3 content. But is most important to me for unveiling my interests. Because I reblog articles that interest me. Especially where I have commented on them.</p>
-<p><a href="https://peakd.com/@keithtaylor/posts">Keith Taylor Web3 Posts</a> is an auto-generated list of all my Web3 posts. But it does not include Threads.</p>
-<p><a href="https://leofinance.io/profile/keithtaylor">Keith Taylor Web3 Threads</a> is my Web3 alternative to my <a href="https://twitter.com/keithtaylor">Keith Taylor Twitter feed</a>. Currently, I'm trying to push more short form content. Which is challenging after decades of focusing on long form content.</p>
+<p><a href="https://peakd.com/@keithtaylor">Keith Taylor's Web3 Blog</a> includes most of my Web3 content. But is most important to me for unveiling my interests. Because I reblog articles that interest me. Especially where I have commented on them.</p>
+<p><a href="https://peakd.com/@keithtaylor/posts">Keith Taylor's Web3 Posts</a> is an auto-generated list of all my Web3 posts. But it does not include Threads.</p>
+<p><a href="https://leofinance.io/profile/keithtaylor">Keith Taylor's Web3 Threads</a> is my Web3 alternative to my <a href="https://twitter.com/keithtaylor">Keith Taylor's Twitter feed</a>. Currently, I'm trying to push more short form content. Which is challenging after decades of focusing on long form content.</p>
 <h2 id="keithtaylorinterests">Keith Taylor Interests</h2>
 <p>Using my Web3 Blog and Threads feeds, I'll begin to categorize my interests here. Eventually generating separate index pages for my main interests.</p>
 <h3 id="health">Health</h3>
 <p>Besides GoutPal and Foodary, I'm interested in many aspects of health and wellbeing:</p>
 <ul>
-<li><a href="http://insert-your-link-here.com">Depression Causes Type 2 Diabetes</a></li>
+<li><a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-ggborgts">Depression Causes Type 2 Diabetes</a></li>
 </ul>
 <h3 id="hiveblockchain">Hive Blockchain</h3>
-<p>I'm definitely in the phase of learning here. Though, I hope to be able to mentor other Web3 converts in future. But first, I will wait for the new LeoFinance onboarding and adoption campaigns.</p>
+<p>I'm definitely in the phase of learning here. Though, I hope to be able to mentor other Web3 converts in the future. But first, I will wait for the new LeoFinance onboarding and adoption campaigns.</p>
 <ul>
 <li><a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-kcga2zqo">1st World Problems</a></li>
 </ul>
