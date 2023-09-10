@@ -36,6 +36,27 @@ hero: 'graphic'
 tags:
 - web3
 ---
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "name": "Working Towards Web3",
+  "author": {
+    "@type": "Person",
+    "name": "Keith Taylor",
+    "url": "https://shrewdies.net/about-keith-taylor/"
+  },
+  "datePublished": "2023-09-07",
+  "dateModified": "2023-09-09",
+  "image": "https://shrewdies.net/assets/images/2023/towards-web3.webp",
+  "url": "https://shrewdies.net/working-towards-web3/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Keith Taylor's Internet Content",
+    "url": "https://shrewdies.net/about-keith-taylor/"
+  }
+}
+</script>
 <p>Having recently discovered the joys of Web3, I want to start moving some (or all) of my content onto the Hive blockchain. So I'll plan new projects for GoutPal and Foodary. While using my main Hive account to support (or replace) this blog.</p>
 <h2 id="hiverewardsweek">Hive Rewards Week</h2>
 <p>Currently, Hive rewards for blog content are paid one week after publication. Based on the number, size, and value of upvotes. Then, authoring and curating rewards cease. Although, LeoFinance is looking to extend its advertising-based rewards to older content.</p>
@@ -64,6 +85,9 @@ tags:
 <h3 id="hiveblockchain">Hive Blockchain</h3>
 <p>I'm definitely in the phase of learning here. Though, I hope to be able to mentor other Web3 converts in the future. But first, I will wait for the new LeoFinance onboarding and adoption campaigns.</p>
 <ul>
+<li>9 Sep 2023 <a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-x34rdzvn">Private CTPX Review or Public Hive Comment?</a></li>
+<li>9 Sep 2023 <a href="https://peakd.com/hive-119826/@keithtaylor/i-don-t-understand-ctpx">I Don't Understand CTPX 1/</a></li>
+<li>8 Sep 2023 <a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-24nlxohqf">Curating Commendable Content First</a></li>
 <li>6 Sep 2023 <a href="https://leofinance.io/threads/view/keithtaylor/re-leothreads-kcga2zqo">1st World Problems</a></li>
 <li>5 Sep 2023 <a href="https://peakd.com/hive-193552/@keithtaylor/actifit-keithtaylor-20230905t212917701z">Growing Slowly</a></li>
 </ul>
