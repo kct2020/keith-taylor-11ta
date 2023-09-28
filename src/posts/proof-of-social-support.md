@@ -55,8 +55,8 @@ tags:
 </p>
 <hr>
 Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
-<script src="stwidget.js"></script>
-<script>
+<script src="stwidget.js" async></script>
+<script type="text/javascript">
 var stwidget = new StWidget('https://chat.peakd.com/t/hive-163399/1'); 
 stwidget.properties = {
     "requireLogin": false,
