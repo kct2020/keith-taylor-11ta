@@ -9,7 +9,7 @@ heroSettings:
     opacityMobile: opacity-50
     opacityDesktop: opacity-75
     color: 
-    image: 2022/who-are-keiths-followers.webp
+    image: 2023/help-2-earn.webp
     imagePosition: 
   imagePosition: center
   imageOpacity: opacity-50
@@ -18,8 +18,8 @@ heroSettings:
   headingTextColor: 
   subheadingText: Sink your keith into Web3 Social Support.
   subheadingTextColor: 
-  image: 2022/who-are-keiths-followers.webp
-image_alt: UpdateThis
+  image: 2023/help-2-earn.webp
+image_alt: Help people and earn money
 title: Proof Of Social Support
 topic: customer service
 excerpt: Introducing social support on the Hive blockchain. Earn from helping.
@@ -51,8 +51,11 @@ tags:
 <li>Add Social Support to their own website</li>
 <li>Provide paid Social Support as an Agent, Moderator, or Manager </li>
 </ul>
-<p>With the first two opportunities available now. And the paid opportunities available as the market is established.
-</p>
+<p>With the first two opportunities available now. And the paid opportunities available as the market is established.</p>
+<figure id="image">
+<img src="/assets/images/{{ seo.image }}" alt="{{ image_alt }}"  width="610" height="377">
+  <figcaption>{{ image_alt }}</figcaption>
+</figure>
 <h2 id="next">Your POSSibilities</h2>
 <p>Would you like to explore the POSSibilities of earning through Web3 customer service? Then use the (as yet untested) Sting Chat dialog here to Direct Message @keithtaylor.</p>
 <hr>
