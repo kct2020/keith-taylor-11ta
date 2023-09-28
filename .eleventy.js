@@ -127,11 +127,11 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('src/*.jpg')
 	eleventyConfig.addPassthroughCopy('src/*.ico')
 	eleventyConfig.addPassthroughCopy('src/robots.txt')
-	eleventyConfig.addPassthroughCopy('src/ads.txt')
 	eleventyConfig.addPassthroughCopy('src/assets/images/')
 	eleventyConfig.addPassthroughCopy('src/assets/svg/')
 	eleventyConfig.addPassthroughCopy('src/assets/video/')
 	eleventyConfig.addPassthroughCopy({ "src/wp/": "/" })
+    eleventyConfig.addPassthroughCopy({ "libs-root/": "/" })
 
 	/**
 	 * Set custom markdown library instance...
