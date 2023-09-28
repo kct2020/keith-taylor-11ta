@@ -55,7 +55,7 @@ tags:
 </p>
 <hr>
 <p>Leave {{ title }} to read <a href="/keith-taylor-blog/">Keith Taylor's Internet Content Blog</a>.</p>
-<script src="/stwidget.js" async></script>
+<script src="/stwidget.js"></script>
 <script type="text/javascript">
 var stwidget = new StWidget('https://chat.peakd.com/t/hive-163399/1'); 
 stwidget.properties = {
