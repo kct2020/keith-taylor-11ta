@@ -36,7 +36,7 @@ hero: 'graphic'
 tags:
 ---
 <p>This is something of a test post to prove that integrating Web3 social chat into a Web2 site can provide the potential for a new social support environment. Leading to a range of support styles. From corporate "giffgaff" style structured customer service. To free flow "amateur" style ad-hoc user support.</p>
-<p>[So maybe title should be Proof Of Social Support]</p>
+<p>So this is my Proof Of Social Support (POSS). A working example of Web3 Sting Chat integrated into a Web2 site. With endless thanks to mirafun, PeakD, and the Hive Blockchain.</p>
 <h2 id="endlesspossibilities">Endless POSSibilities</h2>
 <p>My vision is:</p>
 <ul>
@@ -53,6 +53,8 @@ tags:
 </ul>
 <p>With the first two opportunities available now. And the paid opportunities available as the market is established.
 </p>
+<h2 id="next">Your POSSibilities</h2>
+<p>Would you like to explore the POSSibilities of earning through Web3 customer service? Then use the (as yet untested) Sting Chat dialog here to Direct Message @keithtaylor.</p>
 <hr>
 <p>Leave {{ title }} to read <a href="/keith-taylor-blog/">Keith Taylor's Internet Content Blog</a>.</p>
 <div id="customDiv"></div>
