@@ -26,28 +26,28 @@ excerpt: Introducing social support on the Hive blockchain. Earn from helping.
 seo:
   title: Proof Of Social Support
   description: Providing customer service is expensive. But Web3 provides new opportunities. Crowd-sourced support on Hive blockchain allows cost savings and earning opportunities.
-  image: 2022/who-are-keiths-followers.webp
+  image: 2023/help-2-earn.webp
 images:
   feature: 
-  thumb: 2022/who-are-keiths-followers-377.webp
+  thumb: 2023/help-2-earn-377.webp
   align: 
   height: 
 hero: 'graphic'
 tags:
 ---
-<p>This is something of a test post to prove that integrating Web3 social chat into a Web2 site can provide the potential for a new social support environment. Leading to a range of support styles. From corporate "giffgaff" style structured customer service. To free flow "amateur" style ad-hoc user support.</p>
+<p>This is something of a test post to prove that integrating Web3 social chat into a Web2 site can provide the potential for a new social support environment. Leading to a range of support styles. From corporate "giffgaff" style structured customer service. To free-flow "amateur" style ad-hoc user support.</p>
 <p>So this is my Proof Of Social Support (POSS). A working example of Web3 Sting Chat integrated into a Web2 site. With endless thanks to mirafun, PeakD, and the Hive Blockchain.</p>
 <h2 id="endlesspossibilities">Endless POSSibilities</h2>
 <p>My vision is:</p>
 <ul>
 <li>A group of like-minded people who get the giffgaff concept and are excited about its potential on Web3</li>
-<li>Pro packages that companies can buy with a range of features</li>
+<li>Pro packages that companies can buy, with a range of features</li>
 <li>Self-served packages that people or organizations can customize for their own needs</li>
 <li>A working example of each type of community that can develop and market new packages according to real-life experiences</li>
 </ul>
 <p>So anyone could earn money from:</p>
 <ul>
-<li>Supporting fellow fans of their favourite products/services</li>
+<li>Supporting fellow fans of their favorite products/services</li>
 <li>Add Social Support to their own website</li>
 <li>Provide paid Social Support as an Agent, Moderator, or Manager </li>
 </ul>
