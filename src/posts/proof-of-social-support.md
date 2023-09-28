@@ -55,6 +55,7 @@ tags:
 </p>
 <hr>
 <p>Leave {{ title }} to read <a href="/keith-taylor-blog/">Keith Taylor's Internet Content Blog</a>.</p>
+<div id="customDiv"></div>
 <script type="text/javascript">
 var stwidget = new StWidget('https://chat.peakd.com/t/hive-163399/1'); 
 stwidget.properties = {
@@ -88,5 +89,5 @@ var element = stwidget.createElement('450px', '556px', true, true);
 //optionally add style/positioning
 stwidget.setStyle({ direction: 'rtl', top: '51px', right: '32px' });
 //Add the element to webpage
-e.appendChild(element);
+document.getElementById("customDiv").appendChild(element);
 </script>
