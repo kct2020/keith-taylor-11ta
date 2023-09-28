@@ -54,7 +54,7 @@ tags:
 <p>With the first two opportunities available now. And the paid opportunities available as the market is established.
 </p>
 <hr>
-Leave {{ title }} to browse the <a href="/blog">{{ site.blog }}</a>.
+<p>Leave {{ title }} to read <a href="/keith-taylor-blog/">Keith Taylor's Internet Content Blog</a>.</p>
 <script src="stwidget.js" async></script>
 <script type="text/javascript">
 var stwidget = new StWidget('https://chat.peakd.com/t/hive-163399/1'); 
@@ -86,7 +86,6 @@ stwidget.properties = {
     "--appMessageFontSize": "16px"
 };
 var element = stwidget.createElement('450px', '556px', true, true);
-
 //optionally add style/positioning
 stwidget.setStyle({ direction: 'rtl', top: '51px', right: '32px' });
 //Add the element to webpage
