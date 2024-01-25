@@ -57,7 +57,7 @@ tags:
   }
 }
 </script>
-<p>I've completed the Proof Of Concept for my Web3 project. Proving that it is realistic to continue earning from Hive content after Hive Rewards Week. In fact, I've [introduced the term, Hive Afterweek](https://shrewdies.com/post/keithtaylor/actifit-keithtaylor-20240104t003213996z), to describe the earning period outside Hive Rewards. Which is essentially Web2 marketing rewards applied to Web3 content.</p>
+<p>I've completed the Proof Of Concept for my Web3 project. Proving that it is realistic to continue earning from Hive content after Hive Rewards Week. In fact, I've <a href="https://shrewdies.com/post/keithtaylor/actifit-keithtaylor-20240104t003213996z">introduced the term, Hive Afterweek</a>, to describe the earning period outside Hive Rewards. Which is essentially Web2 marketing rewards applied to Web3 content.</p>
 <h2 id="moving">Moving Towards Web3</h2>
 <p>So, Shrewdies3, my Web3 version of Shrewd Learning, is not a pure Web3 project. Since it is still Web2 hosted, via Cloudflare Pages. And Web2 monetized, via Google AdSense. Though, I hope to diversify the rewards sources as soon as I attract worthwhile traffic.</p>
 <p>But I'm definitely moving towards Web3. So I asked Canva for the image (above and below) with the prompt: <code>Excitedly moving from Web2 towards Web3 using the Hive blockchain</code>.</p>
