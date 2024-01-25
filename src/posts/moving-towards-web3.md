@@ -49,7 +49,7 @@ tags:
   "datePublished": "2024-01-25T11:08:12Z",
   "dateModified": "2024-01-25T11:08:12Z",
   "image": "https://shrewdies.net/assets/images/2024/moving-towards-web3.webp",
-  "url": "https://shrewdies.net/moving-towards-web3/",
+  "url": "https://shrewdies.net/moving-towards-web3-monetization/",
   "publisher": {
     "@type": "Organization",
     "name": "Keith Taylor's Internet Content",
