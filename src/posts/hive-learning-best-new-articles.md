@@ -91,7 +91,7 @@ tags:
 <h4 class="feed-item-title"><a href="https://hypothes.is/a/7GWCXLqhEe6RPgdruX-DHQ" target="_blank">My HL Banner Design; Celebrating HL 5k Members Milestone.</a></h4>
 <p class="feed-item-desc"></p>
 <blockquote>HL Banner Design</blockquote>
-<h1 id="interactlearnandgrow">Interact, Learn, and Grow</h1>
+<h3 id="interactlearnandgrow">Interact, Learn, and Grow</h3>
 <ul>
 <li>Who: The author, <a href="https://shrewdies.com/web3/george-dee">George Dee</a>.</li>
 <li>What: Designing a banner to celebrate Hive Learner reaching 5k members.</li>
@@ -146,4 +146,4 @@ See <a href="https://shrewdies.com/post/missdeli/english-unit-learning-worksheet
 <h2 id="next">Hive Learning: Next Steps</h2>
 <p>I've explained how I begin my promotion process as a basis for monetizing Hive Learning content. Next, I monitor uptake by search engines. Then refine my presentation accordingly. Including the addition of updates, comments, and links to other pages. Of course, if you write your own content on Hive, you can manage those refinements directly in your post. In which case, I can help you with some traffic analytics that drive those content refinements.
 </p><hr>
-Leave {{ title }} to read <a href="https://shrewdies.net/moving-towards-web3-monetization/">more subjects that are moving to Web3 monetization</a>.<p></p>
+<p>Leave {{ title }} to read <a href="https://shrewdies.net/moving-towards-web3-monetization/">more subjects that are moving to Web3 monetization</a>.</p>
