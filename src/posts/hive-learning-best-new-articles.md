@@ -40,14 +40,14 @@ tags:
 {
   "@context": "http://schema.org",
   "@type": "Article",
-  "name": "Moving Towards Web3 Monetization",
+  "name": "Hive Learning - Best New Articles",
   "author": {
     "@type": "Person",
     "name": "Keith Taylor",
     "url": "https://shrewdies.net/about-keith-taylor/"
   },
   "datePublished": "2024-01-26T10:08:12Z",
-  "dateModified": "2024-01-26T10:08:12Z",
+  "dateModified": "2024-01-27T08:08:12Z",
   "image": "https://shrewdies.net/assets/images/2024/best-of-hive-learning.webp",
   "url": "https://shrewdies.net/hive-learning-best-new-articles/",
   "publisher": {
