@@ -23,6 +23,7 @@ h4, dt {
 h5 {
 	@apply text-lg;
 }
+h4 a,
 p a,
 li a,
 blockquote a,
