@@ -139,10 +139,14 @@ Hive blockchain, our new home</blockquote>
 <h2 id="monetization">Hive Blockchain Promotion &amp; Monetization</h2>
 <p>I generate the list above as I identify articles that have proven to be of continuing interest. At which time, those notes become the first step in promoting evergreen Hive Blockchain content to Hypothesis users.</p>
 <p>Next, I incorporate some of those notes into the Hive Blockchain content pages on Shrewdies3. Pushing further promotion through search engines. Which, in turn, improves monetization from increased website traffic. So I mark this progress by adding a link to the Shrewdies3 page.</p>
+<figure id="image">
+<img src="/assets/images/{{ seo.image }}" alt="{{ image_alt }}"  width="610" height="377">
+  <figcaption>{{ image_alt }}</figcaption>
+</figure>
 <h2 id="next">Hive Blockchain: Next Steps</h2>
-<p>I've explained how I begin my promotion process as a basis for monetizing Hive Blockchain content. Next, I monitor uptake by search engines. Then refine my presentation accordingly. Including the addition of updates, comments, and links to other pages. </p>
+<p>I've explained how I begin my promotion process as a basis for monetizing Hive Blockchain content. Next, I monitor uptake by search engines. Then refine my presentation accordingly. Including the addition of updates, comments, and links to related pages. </p>
 <p>Of course, if you write your own content on Hive, you can manage those refinements directly in your own posts. In which case, I can help you with some traffic analytics that drive those content refinements.</p>
 <p><em>Have you identified evergreen Hive Blockchain content?</em></p>
 <p>Then work with me to promote and monetize it. So that you can benefit from long-term rewards in the Hive Afterweek.
 </p><hr>
-Leave {{ title }} to read <a href="https://shrewdies.net/moving-towards-web3-monetization/">more subjects that are moving to Web3 monetization</a>.
+<p>Leave {{ title }} to read <a href="https://shrewdies.net/moving-towards-web3-monetization/">more subjects that are moving to Web3 monetization</a>.</p>
